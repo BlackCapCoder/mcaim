@@ -10,3 +10,4 @@ Somehow Minecraft has controller support, but no way to bind looking around to t
 
 * Adjust the targeting while holding a bow (this is non-trivial with modded ranged weapons)
 * Some kind of logic for looking at blocks of interest
+* Implement keyboard controls for interacting with GUIs (non-trivial for modded GUIs like AE2)
